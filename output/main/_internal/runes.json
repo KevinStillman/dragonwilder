@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Air Rune",
+    "GUID": "u_FUDk2RYs5cyeK6fG1Qnw",
+    "ItemData": "Dvo6TE2d7YNnoni8XbKYzw",
+    "max": 999
+  },
+  {
+    "name": "Fire Rune",
+    "GUID": "jQpLo0qdQOOk7AuFzEefSg",
+    "ItemData": "_QMgbMYhjU-9jAD_euFbyQ",
+    "max": 999
+  },
+  {
+    "name": "Earth Rune",
+    "GUID": "qM4PUUVi0zMGKhe2gtR4mA",
+    "ItemData": "lCE7i3iXGUuHv7FphIOcXg",
+    "max": 999
+  },
+  {
+    "name": "Water Rune",
+    "GUID": "Vl-1nkinhGR7wJGUzsmRZA",
+    "ItemData": "bbLdJRhwPEWt1ScENYRUCg",
+    "max": 999
+  },
+  {
+    "name": "Nature Rune",
+    "GUID": "tRNE8UlMUESO9p6qaaMsCA",
+    "ItemData": "iKbF7k2XvufGqqyg5rK-vQ",
+    "max": 999
+  },
+  {
+    "name": "Law Rune",
+    "GUID": "1aw_h0Xk8q5SGZa3iH_IJA",
+    "ItemData": "_c9JTkwKy8s88GWv586hbQ",
+    "max": 999
+  },
+  {
+    "name": "Astral Rune",
+    "GUID": "cM_Yu0Zxdx1oStaCK--98w",
+    "ItemData": "4wdYZE-FFMhS9Iia0ftWDg",
+    "max": 50
+  }
+]

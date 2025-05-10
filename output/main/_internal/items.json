@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Ash wood",
+    "GUID": "YEqvpUKfCSq4ynCEuplNWQ",
+    "ItemData": "2rxJ495rm0GDn4h5OWKiyQ",
+    "max": 50
+  },
+  {
+    "name": "Oak Wood",
+    "GUID": "Mtxqr0I3puZ1jb2WDepmlA",
+    "ItemData": "TsGMyBWLNEWhBdNu21CwCA",
+    "max": 50
+  },
+  {
+    "name": "Blightwood",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "Anima infused bark",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "stone",
+    "GUID": "erJ1k0pgxXxpDyidwY4J1w",
+    "ItemData": "_R44FI_bhEm8Gx61swlzpA",
+    "max": 50
+  },
+  {
+    "name": "rune essence",
+    "GUID": "tNb8GUljx8xz15eWk6BFaw",
+    "ItemData": "qOY004ZJaEaR8DmcDqB2KA",
+    "max": 50
+  },
+  {
+    "name": "copper ore",
+    "GUID": "0m0EJEzmAmnHGmiiUFAeWQ",
+    "ItemData": "A8Lx3sZhHEeG4GXsl4ZLZw",
+    "max": 50
+  },
+  {
+    "name": "tin ore",
+    "GUID": "PYarCUyNpCMeAEeMoCM9rA",
+    "ItemData": "h1AqBkRETk-Fu_65W6BjVw",
+    "max": 50
+  },
+  {
+    "name": "bronze bar",
+    "GUID": "tCxkQkIS9kuOlEGX21MmjA",
+    "ItemData": "Y2Y48OMHukKIilN4srd7cA",
+    "max": 50
+  },
+  {
+    "name": "iron ore",
+    "GUID": "ll5GC0moWOyQYYuAYdf_4Q",
+    "ItemData": "rTRm3cGOmUm1h1BMEYzTwA",
+    "max": 50
+  },
+  {
+    "name": "iron bar",
+    "GUID": "xqSSKECxTm6iKjinyfKY5w",
+    "ItemData": "Ng6eFNNuiU-VdxSoZtI6kA",
+    "max": 50
+  },
+  {
+    "name": "gold ore",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "gold bar",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "coarse animal fur",
+    "GUID": "EEdnI0uF2V0YYIaPPjwqaQ",
+    "ItemData": "ISwwk0SMdhURciK1Sr3i6Q",
+    "max": 20
+  },
+  {
+    "name": "coarse thread",
+    "GUID": "FX0yN0TvUmzpi8O5Q7Xhug",
+    "ItemData": "Dns4MEGuhT5fcRWocI5o9Q",
+    "max": 20
+  },
+  {
+    "name": "animal bone",
+    "GUID": "bpYFyEFhndbDuzCcRdhz2w",
+    "ItemData": "EnjZ-B1MLkuduCRe1oLNQw",
+    "max": 20
+  },
+  {
+    "name": "antler",
+    "GUID": "Vbs21E4kGm7tcIqjOOY9fA",
+    "ItemData": "AEnD3ErsJVZ3V7WT1YdPQQ",
+    "max": 33
+  },
+  {
+    "name": "flax",
+    "GUID": "p986kU0ZrCXQnH6gipxuaA",
+    "ItemData": "J3Ord4Mjnk-zz-Of_0oL8w",
+    "max": 20
+  },
+  {
+    "name": "leather",
+    "GUID": "zdJXOEOrnWKcVUezMIZmoA",
+    "ItemData": "KejxKZhqBEy2BmyMUMidlA",
+    "max": 20
+  },
+  {
+    "name": "hard leather",
+    "GUID": "xORSd0E-DixZraWhManujA",
+    "ItemData": "UyIYrQzoTkaR04aJNXLTJQ",
+    "max": 20
+  },
+  {
+    "name": "wool thread",
+    "GUID": "y6Q18EYaJdjHP-mlAFly4w",
+    "ItemData": "vgsjm0jT19zFn1uH9N2Rbg",
+    "max": 20
+  },
+  {
+    "name": "fleece",
+    "GUID": "UNbnc0fQAB5YiwqT6Hvv7Q",
+    "ItemData": "mZWtu9Ir9ECtl0a7cV7uJw",
+    "max": 20
+  },
+  {
+    "name": "adhesive",
+    "GUID": "1wIoeknxeDnDGIm2IH_iSw",
+    "ItemData": "3_luxedD0kyY_dd3UKYvEQ",
+    "max": 20
+  },
+  {
+    "name": "ram horn",
+    "GUID": "MhCTbU1bFIbPuym1xD3nHw",
+    "ItemData": "E5lUJEc3VidsqDGPkYhl4A",
+    "max": 20
+  },
+  {
+    "name": "feather",
+    "GUID": "PpKzZEyzq8TuG-y8uCSirw",
+    "ItemData": "v5MSO2Wz4ke5xOGvKC5GlQ",
+    "max": 50
+  },
+  {
+    "name": "small animal fang",
+    "GUID": "bf5X7kBvl-v1yiiex9n4qg",
+    "ItemData": "EWuEEEhBQ59daI2TL5y9YQ",
+    "max": 0
+  },
+  {
+    "name": "swamp thread",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "opal",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "jade",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "bird nest",
+    "GUID": "MKzSr0F8VztgIS6cNTJhZg",
+    "ItemData": "jnxM90O5-e7GHmKF9e0dhA",
+    "max": 0
+  },
+  {
+    "name": "abyssal ashes",
+    "GUID": "ELeV0klC8_8k3uSv8IDIww",
+    "ItemData": "Mw42KUu2HuXm3baIbHa_8g",
+    "max": 20
+  },
+  {
+    "name": "abyssal spine",
+    "GUID": "-PH_CEoTvtwQD1O8toHnEQ",
+    "ItemData": "GHBDsEGyH5DJpTqa7xIC1w",
+    "max": 1
+  },
+  {
+    "name": "dire wolf hide",
+    "GUID": "5xdfXE3tCn0snz2CoptjGw",
+    "ItemData": "wqBk-EZDxcfPtH6VdUnlNg",
+    "max": 1
+  },
+  {
+    "name": "wool cloth",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "animal hide",
+    "GUID": "iksj7ElZ14tjlIG0Cwo-pw",
+    "ItemData": "ND81bEI1UktxBZK6a1kPtg",
+    "max": 0
+  },
+  {
+    "name": "animal hide scraps",
+    "GUID": "Q73QgkT0zF7XU_25gJqsiA",
+    "ItemData": "ab53An3iPkyjTqnHyme-0A",
+    "max": 0
+  },
+  {
+    "name": "soft animal fur",
+    "GUID": "o3ldmU7U7kEfgPKf8uF1Dw",
+    "ItemData": "_a30PUP3vGbK6omuRTvw2Q",
+    "max": 20
+  },
+  {
+    "name": "swamp tar",
+    "GUID": "3MU9LUeyCjSQ0KiYBdkm4g",
+    "ItemData": "DJIQWUsnDB7Umey0E2dFgA",
+    "max": 20
+  },
+  {
+    "name": "clay",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "charcoal",
+    "GUID": "",
+    "ItemData": "",
+    "max": 50
+  },
+  {
+    "name": "raw bestial meat",
+    "GUID": "clnajUrg2g93ekSM0U9nAg",
+    "ItemData": "tosPpUxp9FZgwdGvvXrcjw",
+    "max": 20
+  },
+  {
+    "name": "raw game meat",
+    "GUID": "xG3UE0puEN4EMpST9dzMzw",
+    "ItemData": "6VtTq32kQkyOk-E3Ly05-A",
+    "max": 20
+  },
+  {
+    "name": "raw rat meat",
+    "GUID": "CzckEkNCXrDGozGsbD_bGw",
+    "ItemData": "1k8-cj3JqEGeRgu1P7PK2g",
+    "max": 20
+  },
+  {
+    "name": "raw bird meat",
+    "GUID": "xG3UE0puEN4EMpST9dzMzw",
+    "ItemData": "6VtTq32kQkyOk-E3Ly05-A",
+    "max": 20
+  },
+  {
+    "name": "raw farm meat",
+    "GUID": "Wf6YVUxsfQIrLjuwfSqhtg",
+    "ItemData": "Ttc6u0zyAi-JMaOjrxwtNQ",
+    "max": 20
+  },
+  {
+    "name": "potato",
+    "GUID": "Aj-gAUiLWqUVq0aCMDt4bg",
+    "ItemData": "HwM2_HvXZUyt8FmT4F2iYQ",
+    "max": 20
+  },
+  {
+    "name": "cabbage",
+    "GUID": "wTyG6kpk6IL3xsWU9OUYUg",
+    "ItemData": "EHN6Hs9NFkur7chZVfchJg",
+    "max": 20
+  },
+  {
+    "name": "redberries",
+    "GUID": "3JaawEwWkcNpF2SvS5r7_A",
+    "ItemData": "GHxAwJ8gNkSe3vxloWof2A",
+    "max": 50
+  },
+  {
+    "name": "dwellberries",
+    "GUID": "-rwrwUrMOa5Ts2qZ244Hgg",
+    "ItemData": "eCBq3UiiNADih26zDQBTVQ",
+    "max": 20
+  },
+  {
+    "name": "ash plank",
+    "GUID": "f7UfEE4yE4oXiHy73ZQzgA",
+    "ItemData": "Gv_wHkJnBgiXOfq0cCvggg",
+    "max": 50
+  },
+  {
+    "name": "oak plank",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "sandstone",
+    "GUID": "",
+    "ItemData": "",
+    "max": 50
+  },
+  {
+    "name": "ground sandstone",
+    "GUID": "skaKMELxGyj23z2hrwjTMQ",
+    "ItemData": "FcnXn0Sq3OS7tJKuCRAc1A",
+    "max": 50
+  },
+  {
+    "name": "ground stone",
+    "GUID": "",
+    "ItemData": "",
+    "max": 50
+  },{
+    "name": "ground Granite",
+    "GUID": "G6sXf0BNG9Kuqam3npG4nQ",
+    "ItemData": "Cu5DREB0z4_XYRGkXu8U9A",
+    "max": 50
+  },
+  {
+    "name": "Marrentill",
+    "GUID": "CCx0lEhlZYvdD26wjOr28g",
+    "ItemData": "U3fAKU2mI0apYz-rc0qWcQ",
+    "max": 0
+  },
+  {
+    "name": "Harralander",
+    "GUID": "JdqmF0y0obxn9Zq6ZM0WDA",
+    "ItemData": "mJ4P8qzfy0Wg8OxrYc_NBA",
+    "max": 20
+  },
+  {
+    "name": "snapdragon",
+    "GUID": "hD6BCERXxLLrChasVsdhaA",
+    "ItemData": "VP4HYkC55gMC4pGC3c6L4w",
+    "max": 20
+  },
+  {
+    "name": "toadflax",
+    "GUID": "Vdq65ET6mzw0RlOatHe-aQ",
+    "ItemData": "61d3bkS0nDQWlVqHDt5OaQ",
+    "max": 20
+  },
+  {
+    "name": "poison plant bulb",
+    "GUID": "",
+    "ItemData": "",
+    "max": 20
+  },
+  {
+    "name": "shocking plant bulb",
+    "GUID": "Zsj8PUg0xMEdF4yWwE8fvw",
+    "ItemData": "6lzGokw1exVCJAmMfnUnkg",
+    "max": 20
+  },
+  {
+    "name": "weak antipoison",
+    "GUID": "",
+    "ItemData": "",
+    "max": 0
+  },
+  {
+    "name": "weak healing potion",
+    "GUID": "uqrJmUNYIgzpSqaITjr51Q",
+    "ItemData": "qRA1TEfZJkMoanWXc_l-Sg",
+    "max": 20
+  },
+  {
+    "name": "Clean Water",
+    "GUID": "GBRWLUKQExbLJzefoaeZYg",
+    "ItemData": "hKYyX0vQ_pgLRAi2ugGK3w",
+    "max": 0
+  },
+  {
+    "name": "Vault Shard",
+    "GUID": "EDBTUUQU6hSTmMK6NMFDHw",
+    "ItemData": "T8l7pktHUJoUuxi9mkrT7g",
+    "max": 20
+  }
+]
