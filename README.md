@@ -5,3 +5,9 @@ TO USE:
 2. Run DragonWilder.exe - Note that the character you're trying to edit the save file of SHOULD NOT BE CURRENTLY LOADED INTO A WORLD.
 3. Edit the levels and inventory as you desire and hit Save
 4. Load the character into a world and enjoy!
+
+
+
+
+EDIT MAY 5, 2025
+Currently there are some items missing from the list of items, as well as a handful of items in the list that do not work (e.g gold ore/bars, antipoisons) I will be adding continuously so check back for updates!
