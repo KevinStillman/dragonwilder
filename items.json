@@ -13,15 +13,15 @@
   },
   {
     "name": "Blightwood",
-    "GUID": "",
-    "ItemData": "",
-    "max": 0
+    "GUID": "XakqA0Zesg99zruv9hy_fw",
+    "ItemData": "CxUwQN-Me0qnNfyc207f0g",
+    "max": 50
   },
   {
     "name": "Anima infused bark",
-    "GUID": "",
-    "ItemData": "",
-    "max": 0
+    "GUID": "Kysh_UxAlmYFOJu79JiPsA",
+    "ItemData": "tKokB0xYm6tJNHiWwmG2SQ",
+    "max": 20
   },
   {
     "name": "stone",
@@ -67,15 +67,15 @@
   },
   {
     "name": "gold ore",
-    "GUID": "",
-    "ItemData": "",
-    "max": 0
+    "GUID": "eEybKkBqWGPNPPuyvx6IlA",
+    "ItemData": "D-BzgHFSHkyc53teVzmBNA",
+    "max": 50
   },
   {
     "name": "gold bar",
-    "GUID": "",
-    "ItemData": "",
-    "max": 0
+    "GUID": "6bSKx0eT038d3FGcw3ZyUw",
+    "ItemData": "9jFU2lh9l0qPbNTspGCBFA",
+    "max": 50
   },
   {
     "name": "coarse animal fur",
@@ -153,13 +153,19 @@
     "name": "small animal fang",
     "GUID": "bf5X7kBvl-v1yiiex9n4qg",
     "ItemData": "EWuEEEhBQ59daI2TL5y9YQ",
-    "max": 0
+    "max": 50
+  },
+  {
+    "name": "swamp weed",
+    "GUID": "Jyv-kUScK6GlVPGL4Cse9w",
+    "ItemData": "zsimokwEIE-BaUmW949QtQ",
+    "max": 20
   },
   {
     "name": "swamp thread",
-    "GUID": "",
-    "ItemData": "",
-    "max": 0
+    "GUID": "3lOIY0bXf5S59T-U31I72g",
+    "ItemData": "ehZX4E-aGmiITq6BdnbgFA",
+    "max": 20
   },
   {
     "name": "opal",
@@ -177,7 +183,7 @@
     "name": "bird nest",
     "GUID": "MKzSr0F8VztgIS6cNTJhZg",
     "ItemData": "jnxM90O5-e7GHmKF9e0dhA",
-    "max": 0
+    "max": 30
   },
   {
     "name": "abyssal ashes",
@@ -199,21 +205,21 @@
   },
   {
     "name": "wool cloth",
-    "GUID": "",
-    "ItemData": "",
-    "max": 0
+    "GUID": "rMvtdEOp1Q-oeHWjzBAX2A",
+    "ItemData": "Jf2AM4PfnUqwTuW0cPXheA",
+    "max": 20
   },
   {
     "name": "animal hide",
     "GUID": "iksj7ElZ14tjlIG0Cwo-pw",
     "ItemData": "ND81bEI1UktxBZK6a1kPtg",
-    "max": 0
+    "max": 30
   },
   {
     "name": "animal hide scraps",
     "GUID": "Q73QgkT0zF7XU_25gJqsiA",
     "ItemData": "ab53An3iPkyjTqnHyme-0A",
-    "max": 0
+    "max": 30
   },
   {
     "name": "soft animal fur",
@@ -229,14 +235,14 @@
   },
   {
     "name": "clay",
-    "GUID": "",
-    "ItemData": "",
-    "max": 0
+    "GUID": "Aag_uUmN6XdooqKlRBCsNg",
+    "ItemData": "LLV95ECQPPkItvyaC0gCzQ",
+    "max": 50
   },
   {
     "name": "charcoal",
-    "GUID": "",
-    "ItemData": "",
+    "GUID": "3zobLEvN5ImMmESJCnh9-w",
+    "ItemData": "x-SiNQenZEuF0yyTPkxhiw",
     "max": 50
   },
   {
@@ -301,38 +307,38 @@
   },
   {
     "name": "oak plank",
-    "GUID": "",
-    "ItemData": "",
-    "max": 0
+    "GUID": "i_uIoUenrAF0FnOLiu6FSg",
+    "ItemData": "FaDdOe9tLUOzvrkYSPpb3Q",
+    "max": 50
   },
   {
     "name": "sandstone",
-    "GUID": "",
-    "ItemData": "",
+    "GUID": "ho8YIE3ch5CgsEe9QagqWQ",
+    "ItemData": "RdhNn0ebpZZIPQqMviMjNg",
     "max": 50
   },
   {
     "name": "ground sandstone",
     "GUID": "skaKMELxGyj23z2hrwjTMQ",
     "ItemData": "FcnXn0Sq3OS7tJKuCRAc1A",
-    "max": 50
+    "max": 99
   },
   {
     "name": "ground stone",
-    "GUID": "",
-    "ItemData": "",
-    "max": 50
+    "GUID": "zHvhxEmFeOUzmJyEJDft2w",
+    "ItemData": "guCjkksBOmEcLFut-VH-qg",
+    "max": 99
   },{
     "name": "ground Granite",
     "GUID": "G6sXf0BNG9Kuqam3npG4nQ",
     "ItemData": "Cu5DREB0z4_XYRGkXu8U9A",
-    "max": 50
+    "max": 99
   },
   {
     "name": "Marrentill",
     "GUID": "CCx0lEhlZYvdD26wjOr28g",
     "ItemData": "U3fAKU2mI0apYz-rc0qWcQ",
-    "max": 0
+    "max": 20
   },
   {
     "name": "Harralander",
@@ -354,8 +360,8 @@
   },
   {
     "name": "poison plant bulb",
-    "GUID": "",
-    "ItemData": "",
+    "GUID": "11k7CkioZa-iSE2wO1ko2g",
+    "ItemData": "vxn3aEpxraaQXJi9Btd7Cw",
     "max": 20
   },
   {
@@ -366,9 +372,9 @@
   },
   {
     "name": "weak antipoison",
-    "GUID": "",
-    "ItemData": "",
-    "max": 0
+    "GUID": "BH4NhEs1kMQ359SUP_h3_Q",
+    "ItemData": "ukjoSEXQTWbO6zSJvP5Z4Q",
+    "max": 20
   },
   {
     "name": "weak healing potion",
@@ -380,12 +386,42 @@
     "name": "Clean Water",
     "GUID": "GBRWLUKQExbLJzefoaeZYg",
     "ItemData": "hKYyX0vQ_pgLRAi2ugGK3w",
-    "max": 0
+    "max": 50
   },
   {
     "name": "Vault Shard",
     "GUID": "EDBTUUQU6hSTmMK6NMFDHw",
     "ItemData": "T8l7pktHUJoUuxi9mkrT7g",
+    "max": 20
+  },
+  {
+    "name": "Silver Bar",
+    "GUID": "345ZUEmtCZ-_Y4Wncj_FsQ",
+    "ItemData": "gunABauXjk6khTFVIKifoA",
+    "max": 20
+  },
+  {
+    "name": "Silver Ore",
+    "GUID": "NU9Fa0u8Jt149B6hEocF7Q",
+    "ItemData": "xawyKY4sAkmNcNuINCw3ww",
+    "max": 20
+  },
+  {
+    "name": "Wild Anima",
+    "GUID": "UyOExEoPujouCyeyc1pefQ",
+    "ItemData": "LURhZ0Q6FaLGzh-siBuT7g",
+    "max": 20
+  },
+  {
+    "name": "Red Topaz",
+    "GUID": "yCBq9ki2w6TNt2qcQOqLwg",
+    "ItemData": "DY6MkEu_wT76ukyxwYr45g",
+    "max": 20
+  },
+  {
+    "name": "Sapphire",
+    "GUID": "Czzb9kugxGEErQatEEpMqw",
+    "ItemData": "TvL1Ik7Vc-NHKlCx--22Cg",
     "max": 20
   }
 ]
