@@ -63,12 +63,9 @@ class DragonWilderApp(ttk.Frame):
         # Top controls
         top = ttk.Frame(self)
         top.pack(side="top", fill="x", pady=(0,10))
-        ttk.Button(top, text="Choose character", command=self.choose_file) \
-            .pack(side="left", padx=5)
+        ttk.Button(top, text="Choose character", command=self.choose_file).pack(side="left", padx=5)
         self.name_var = tk.StringVar(value="No file loaded")
-        ttk.Label(top, textvariable=self.name_var,
-                  font=("TkDefaultFont", 12, "bold")) \
-            .pack(side="left", padx=20)
+        ttk.Label(top, textvariable=self.name_var, font=("TkDefaultFont", 12, "bold")).pack(side="left", padx=20)
 
         # Main editor area
         self.editor = ttk.Panedwindow(self, orient=tk.HORIZONTAL)
@@ -77,8 +74,7 @@ class DragonWilderApp(ttk.Frame):
         # Save button at bottom
         save_frame = ttk.Frame(self)
         save_frame.pack(side="bottom", fill="x", pady=5)
-        ttk.Button(save_frame, text="Save file", command=self.save_file) \
-            .pack()
+        ttk.Button(save_frame, text="Save file", command=self.save_file).pack()
 
         self.pack(fill="both", expand=True)
 
@@ -137,37 +133,29 @@ class DragonWilderApp(ttk.Frame):
                 (n for p,n in SKILL_NAMES.items() if sid.startswith(p)),
                 f"Skill {i+1}"
             )
-            ttk.Label(skills_frame, text=label) \
-                .grid(row=i, column=0, sticky="w", padx=5, pady=2)
+            ttk.Label(skills_frame, text=label).grid(row=i, column=0, sticky="w", padx=5, pady=2)
 
-            xp_var = tk.IntVar(value=skill["Xp"])
-            ttk.Label(skills_frame, textvariable=xp_var, width=8) \
-                .grid(row=i, column=1, padx=5)
+            xp_var = tk.IntVar(value=skill.get("Xp", 0))
+            ttk.Label(skills_frame, textvariable=xp_var, width=8).grid(row=i, column=1, padx=5)
 
+            # update only the Xp value, preserve the original Id
             def mk_set(idx, var, val):
-                return lambda: (
-                    self.data["Skills"]["Skills"].__setitem__(idx, {"Id": sid, "Xp": val}),
+                def _set():
+                    self.data["Skills"]["Skills"][idx]["Xp"] = val
                     var.set(val)
-                )
+                return _set
+
             def mk_add(idx, var, amt):
-                return lambda: (
-                    self.data["Skills"]["Skills"].__setitem__(idx, {
-                        "Id": sid,
-                        "Xp": self.data["Skills"]["Skills"][idx]["Xp"] + amt
-                    }),
-                    var.set(self.data["Skills"]["Skills"][idx]["Xp"])
-                )
+                def _add():
+                    entry = self.data["Skills"]["Skills"][idx]
+                    entry["Xp"] = entry.get("Xp", 0) + amt
+                    var.set(entry["Xp"])
+                return _add
 
             # Button order: 50, +100m xp, Reset
-            ttk.Button(skills_frame, text="50",
-                       command=mk_set(i, xp_var, MAX_XP)) \
-                .grid(row=i, column=2, padx=5)
-            ttk.Button(skills_frame, text="+100m xp",
-                       command=mk_add(i, xp_var, ADD_XP)) \
-                .grid(row=i, column=3, padx=5)
-            ttk.Button(skills_frame, text="Reset",
-                       command=mk_set(i, xp_var, 0)) \
-                .grid(row=i, column=4, padx=5)
+            ttk.Button(skills_frame, text="50",      command=mk_set(i, xp_var,     MAX_XP)).grid(row=i, column=2, padx=5)
+            ttk.Button(skills_frame, text="+100m xp",command=mk_add(i, xp_var, ADD_XP  )).grid(row=i, column=3, padx=5)
+            ttk.Button(skills_frame, text="Reset",   command=mk_set(i, xp_var,         0)).grid(row=i, column=4, padx=5)
 
         # --- Inventory notebook ---
         inv_nb = ttk.Notebook(self.editor)
@@ -177,8 +165,7 @@ class DragonWilderApp(ttk.Frame):
             frame = ttk.Frame(inv_nb, padding=5)
             inv_nb.add(frame, text=title)
             for r, s in enumerate(slots):
-                ttk.Label(frame, text=f"Slot {s}") \
-                    .grid(row=r, column=0, sticky="w", padx=5, pady=2)
+                ttk.Label(frame, text=f"Slot {s}").grid(row=r, column=0, sticky="w", padx=5, pady=2)
 
                 # Item dropdown
                 cbv = tk.StringVar()
@@ -215,8 +202,7 @@ class DragonWilderApp(ttk.Frame):
                             cv.set(itm["max"])
                             self.update_inventory(s, cbv.get(), itm["max"])
                     return fn
-                ttk.Button(frame, text="Max", command=make_max()) \
-                    .grid(row=r, column=3, padx=5)
+                ttk.Button(frame, text="Max", command=make_max()).grid(row=r, column=3, padx=5)
 
                 # Prefill existing
                 ent = self.data["Inventory"].get(str(s))
