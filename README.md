@@ -1,4 +1,4 @@
-DragonWilder is a tool written 100% in python that makes editing character save files for RuneScape DragonWilds. 
+DragonWilder is a tool written 100% in python that makes editing character save files for RuneScape DragonWilds easy! 
 
 TO USE:
 1. Download the repo and navigate to OUTPUT/MAIN/ where you will see "DragonWilder.exe", "items.json" and "runes.json". 
@@ -11,3 +11,6 @@ TO USE:
 
 EDIT MAY 5, 2025
 Currently there are some items missing from the list of items, as well as a handful of items in the list that do not work (e.g gold ore/bars, antipoisons) I will be adding continuously so check back for updates!
+
+EDIT MAY 6 2025
+All items in the list now work with the exception or opal and jade
