@@ -7,10 +7,6 @@ TO USE:
 4. Load the character into a world and enjoy!
 
 
+update dec 2025 - items list is now grabbed from keviqn.com so no updating is required for the user if new items get added
 
-
-EDIT MAY 5, 2025
-Currently there are some items missing from the list of items, as well as a handful of items in the list that do not work (e.g gold ore/bars, antipoisons) I will be adding continuously so check back for updates!
-
-EDIT MAY 6 2025
-All items in the list now work with the exception or opal and jade
+update april 6 2024 - tons of items added
